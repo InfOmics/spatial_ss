@@ -12,14 +12,14 @@ conda activate sss
 `````
 install requirements
 ````
-pip install -r requirement.txt
+pip install -r requirements.txt
 
 ````
 install SSS package
 ````
 pip install git+https://github.com/InfOmics/spatial_ss.git
 ````
-run_SSS.py contains the SSS pipeline. 
+run_SSS.py contains the SSS test pipeline. 
 
 
 ### Data Availability ###
